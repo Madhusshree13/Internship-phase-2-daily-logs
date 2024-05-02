@@ -1,4 +1,3 @@
-use world;
 create table customers(
     customerNumber varchar(20) not null,
     customerName varchar(30) not null,
